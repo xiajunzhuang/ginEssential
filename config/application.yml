@@ -1,0 +1,10 @@
+server:
+  port: 8081
+datasource:
+  driverName: mysql
+  host: localhost
+  port: 3306
+  database: ginessential
+  user: root
+  password: root
+  charset: utf8
